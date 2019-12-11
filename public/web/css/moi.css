@@ -1,0 +1,26 @@
+.maeva{
+  list-style-type: none;
+  margin-left: :100px;
+  padding: 0;
+  color: black;
+  border: 3px slide;
+  background-color:blue;
+
+
+
+}
+
+
+
+li{
+  border-right: 1px solid #bbb;
+  margin-left: :100px;
+}
+
+li a:hover{
+  background-color: red;
+
+}
+.ma1{
+  color: white;
+}
